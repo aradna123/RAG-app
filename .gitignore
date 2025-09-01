@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# ChromaDB
+data/vector_db/chroma_db
+*.bin
+*.parquet
+*.sqlite
+*.sqlite3
